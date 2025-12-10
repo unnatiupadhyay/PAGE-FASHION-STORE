@@ -1,0 +1,56 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    color: aliceblue;
+}
+.navbar{
+    height: 10px;
+    display: flex;
+    justify-content:space-between;
+     text-decoration: none;
+     padding: 20px;
+     /* margin-top: auto; */
+     text-align: center;
+     width: 100%;
+     margin-bottom: 35px;
+     
+     
+    
+}
+.link{
+    gap: 100px;
+    display: flex;
+       justify-content: space-between;
+}
+
+.link a{
+    text-decoration: none;
+    color: #000;
+    justify-content:space-between;
+    
+}
+.heropage{
+    background-image: url(https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg);
+    height: 600px;
+    /* opacity: ; */
+    /* background-repeat: no-repeat; */
+    /* width: 100%; */
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+}
+h2{
+    /* text-align: ; */
+    font-family: cursive;
+    /* font-size: xx-large; */
+    font-weight: 200px;
+    display: flex;
+    align-items: center;
+    font-size: 60px;
+
+}
+table{
+    background-color: grey;
+    width: 100%;
+    border: 2px solid #000;
+}
